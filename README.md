@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:7F52FF,100:58A6FF&height=210&section=header&text=parkhj2009&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Android%20%26%20Frontend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="parkhj2009 profile banner" />
+<h1>parkhj2009</h1>
+
+### Android & Frontend Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Android+Developer+with+Kotlin;Frontend+Developer+with+React;Building+clean+and+useful+apps;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
@@ -26,6 +28,7 @@ I like clean UI, practical products, and learning by making real things.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,7 +103,5 @@ I like clean UI, practical products, and learning by making real things.
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parkhj2009&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,55:7F52FF,100:111827&height=110&section=footer" width="100%" alt="footer wave" />
 
 </div>
