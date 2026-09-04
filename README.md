@@ -25,6 +25,37 @@
 
 <br />
 
+### ✦ Organizations
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Team-B1ND">
+        <img src="https://avatars.githubusercontent.com/u/93782306?v=4" width="72" height="72" alt="B1nd 로고" />
+        <br /><strong>B1nd</strong>
+      </a>
+      <br /><br />
+      <sub>스마트 학생 생활 관리 시스템</sub><br />
+      <strong>도담도담</strong>
+      <br /><br />
+      <a href="https://github.com/Team-B1ND">Explore organization ↗</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Team-C0nnect">
+        <img src="https://avatars.githubusercontent.com/u/142553917?v=4" width="72" height="72" alt="C0nnect 로고" />
+        <br /><strong>C0nnect</strong>
+      </a>
+      <br /><br />
+      <sub>스마트한 출석체크 · 기숙사 관리 플랫폼</sub><br />
+      <strong>Qvick</strong>
+      <br /><br />
+      <a href="https://github.com/Team-C0nnect">Explore organization ↗</a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ### ✦ Tech stack
 
 **Languages**
