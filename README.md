@@ -1,68 +1,74 @@
 <div align="center">
 
-# Hi there, I'm parkhj2009 👋
+<img src="./assets/profile-header.svg" width="100%" alt="parkhj2009 — Android & Frontend Developer" />
 
-### Android & Frontend Developer
+<br />
 
-작은 호기심을 코드로, 배움을 기록으로.
+**작은 호기심을 코드로, 배움을 기록으로.**
 
-[GitHub](https://github.com/parkhj2009) · [Email](mailto:eee0110010100@gmail.com)
+안녕하세요, **박현준**입니다.  
+깔끔한 UI와 실용적인 서비스를 좋아하며, Android와 Web을 만들고 있습니다.
+
+[![GitHub](https://img.shields.io/badge/GitHub-parkhj2009-171B2E?style=flat-square&logo=github&logoColor=white)](https://github.com/parkhj2009)
+[![Email](https://img.shields.io/badge/Email-Let%27s_talk-171B2E?style=flat-square&logo=gmail&logoColor=5EEAD4)](mailto:eee0110010100@gmail.com)
 
 </div>
 
----
+<br />
 
-### 🧑‍💻 About me
+### ✦ About me
 
-안드로이드 앱과 웹 프론트엔드를 만드는 박현준입니다.  
-깔끔한 UI와 실용적인 서비스를 좋아하며, 직접 만들면서 배우고 있습니다.
+| 📱 Android | 🌐 Frontend | 🌱 Learning |
+| :--- | :--- | :--- |
+| Kotlin으로 앱 만들기 | React로 웹 화면 구현하기 | 직접 만들면서 배우기 |
+| 일상에 도움이 되는 기능 | 깔끔하고 사용하기 편한 UI | 작은 기능부터 꾸준히 완성 |
 
-- 📱 **Android** — Kotlin으로 앱 만들기
-- 🌐 **Frontend** — JavaScript와 React로 웹 화면 구현하기
-- 💡 **Interests** — UI, 실용적인 제품, 문제 해결
+<br />
 
-### 🛠️ Tech stack
+### ✦ Tech stack
 
-| 영역 | 사용하는 기술 |
-| :--- | :--- |
-| Languages | Kotlin · JavaScript · TypeScript · Python |
-| Frontend | React |
-| Android | Kotlin · Android Studio |
-| Tools | Git · GitHub |
+**Languages**
 
-### 🚀 Featured projects
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=171B2E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-| 프로젝트 | 주요 언어 |
-| :--- | :--- |
-| [TodoList](https://github.com/parkhj2009/TodoList) | Kotlin |
-| [todolist_web](https://github.com/parkhj2009/todolist_web) | JavaScript |
-| [Seats](https://github.com/parkhj2009/Seats) | Python |
+**Frameworks & Tools**
 
-### 📝 Learning & notes
+![Android](https://img.shields.io/badge/Android-171B2E?style=for-the-badge&logo=android&logoColor=3DDC84)
+![React](https://img.shields.io/badge/React-171B2E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android Studio](https://img.shields.io/badge/Android_Studio-171B2E?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-171B2E?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-171B2E?style=for-the-badge&logo=github&logoColor=white)
 
-[**React 학습 기록 →**](https://github.com/parkhj2009/react_study)
+<br />
 
-직접 코드를 작성하고, 작은 기능을 완성하며 배워갑니다.
+### ✦ Selected projects
 
-<details>
-<summary>💬 조금 더 알아보기</summary>
+| 프로젝트 | 주요 언어 | 둘러보기 |
+| :--- | :--- | :---: |
+| **📱 TodoList** | `Kotlin` | [Repository ↗](https://github.com/parkhj2009/TodoList) |
+| **🌐 todolist_web** | `JavaScript` | [Repository ↗](https://github.com/parkhj2009/todolist_web) |
+| **🪑 Seats** | `Python` | [Repository ↗](https://github.com/parkhj2009/Seats) |
 
-<br>
+[전체 프로젝트 보기 →](https://github.com/parkhj2009?tab=repositories)
 
-**관심 있는 개발 주제**
+<br />
 
-Kotlin을 활용한 Android 개발, React 기반의 프론트엔드, 사용하기 편한 UI에 관심이 있습니다.
+### ✦ Learning journal
 
-**Contact**
+> **배운 것을 직접 만들며 내 것으로.**  
+> 코드를 작성하고, 작은 기능을 완성하며 배워갑니다.
 
-[이메일 보내기](mailto:eee0110010100@gmail.com) · [전체 저장소 보기](https://github.com/parkhj2009?tab=repositories)
+[![React study](https://img.shields.io/badge/READ_MY_NOTES-React_Study_↗-171B2E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/parkhj2009/react_study)
 
-</details>
+<br />
 
 ---
 
 <div align="center">
 
-Thanks for stopping by ✨
+<sub>Thanks for visiting · Let's build something useful.</sub>
 
 </div>
