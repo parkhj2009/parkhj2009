@@ -1,107 +1,68 @@
 <div align="center">
 
-<h1>parkhj2009</h1>
+# Hi there, I'm parkhj2009 👋
 
 ### Android & Frontend Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Android+Developer+with+Kotlin;Frontend+Developer+with+React;Building+clean+and+useful+apps;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+작은 호기심을 코드로, 배움을 기록으로.
 
-</div>
-
-<br />
-
-<div align="center">
-
-### Hi, I'm `parkhj2009`
-
-I enjoy building Android apps and frontend experiences.  
-I like clean UI, practical products, and learning by making real things.
+[GitHub](https://github.com/parkhj2009) · [Email](mailto:eee0110010100@gmail.com)
 
 </div>
 
 ---
 
-### Tech Stack
+### 🧑‍💻 About me
 
-<div align="center">
+안드로이드 앱과 웹 프론트엔드를 만드는 박현준입니다.  
+깔끔한 UI와 실용적인 서비스를 좋아하며, 직접 만들면서 배우고 있습니다.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 📱 **Android** — Kotlin으로 앱 만들기
+- 🌐 **Frontend** — JavaScript와 React로 웹 화면 구현하기
+- 💡 **Interests** — UI, 실용적인 제품, 문제 해결
 
-</div>
+### 🛠️ Tech stack
 
----
+| 영역 | 사용하는 기술 |
+| :--- | :--- |
+| Languages | Kotlin · JavaScript · TypeScript · Python |
+| Frontend | React |
+| Android | Kotlin · Android Studio |
+| Tools | Git · GitHub |
 
-### Focus
+### 🚀 Featured projects
 
-<div align="center">
+| 프로젝트 | 주요 언어 |
+| :--- | :--- |
+| [TodoList](https://github.com/parkhj2009/TodoList) | Kotlin |
+| [todolist_web](https://github.com/parkhj2009/todolist_web) | JavaScript |
+| [Seats](https://github.com/parkhj2009/Seats) | Python |
 
-| Android | Frontend | Learning |
-|:---:|:---:|:---:|
-| Kotlin, Android Studio | JavaScript, React | UI, products, problem solving |
+### 📝 Learning & notes
 
-</div>
+[**React 학습 기록 →**](https://github.com/parkhj2009/react_study)
 
----
+직접 코드를 작성하고, 작은 기능을 완성하며 배워갑니다.
 
-### GitHub Stats
+<details>
+<summary>💬 조금 더 알아보기</summary>
 
-<div align="center">
+<br>
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=parkhj2009&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=7F52FF&text_color=C9D1D9" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhj2009&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+**관심 있는 개발 주제**
 
-</div>
+Kotlin을 활용한 Android 개발, React 기반의 프론트엔드, 사용하기 편한 UI에 관심이 있습니다.
 
-<br />
+**Contact**
 
-<div align="center">
+[이메일 보내기](mailto:eee0110010100@gmail.com) · [전체 저장소 보기](https://github.com/parkhj2009?tab=repositories)
 
-<img width="58%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=parkhj2009&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7F52FF&currStreakLabel=58A6FF" />
-
-</div>
-
----
-
-### Contribution Graph
-
-<div align="center">
-
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=parkhj2009&theme=github-compact&bg_color=0D1117&color=58A6FF&line=7F52FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
+</details>
 
 ---
 
-### Achievements
-
 <div align="center">
 
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Achievement-E3B341?style=for-the-badge&labelColor=161B22)
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achievement-58A6FF?style=for-the-badge&labelColor=161B22)
-
-</div>
-
----
-
-### Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eee0110010100@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parkhj2009)
-
-</div>
-
-<br />
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=parkhj2009&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+Thanks for stopping by ✨
 
 </div>
