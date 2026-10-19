@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">Park Hyunjun — Building for everyday life</title>
-<desc id="desc">Warm ivory and cobalt blue developer profile banner with orange accents and a mobile app illustration.</desc>
+<title id="title">박현준 — 매일 쓰는 앱을 더 편리하게</title>
+<desc id="desc">아이보리 바탕과 코발트 블루, 코럴 포인트로 만든 개발자 소개 배너입니다.</desc>
 <defs>
   <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#26304A" opacity=".12"/></pattern>
   <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4166FF"/><stop offset="1" stop-color="#2647D7"/></linearGradient>
@@ -11,9 +11,9 @@
 <text x="102" y="60" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2" fill="#202434">PARK HYUNJUN</text>
 <text x="1140" y="60" text-anchor="end" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#626879">ANDROID  /  MOBILE  /  WEB</text>
 <path d="M60 91H1140" stroke="#D9D8D0"/>
-<text x="60" y="163" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-2.5" fill="#202434">Building for</text>
-<text x="60" y="229" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-2.5" fill="#3157EE">everyday life.</text>
-<text x="64" y="278" font-family="Arial,sans-serif" font-size="16" fill="#626879">Thoughtful mobile experiences, from the widget up.</text>
+<text x="60" y="163" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#202434">매일 쓰는 앱을</text>
+<text x="60" y="222" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#3157EE">더 편리하게.</text>
+<text x="64" y="274" font-family="Arial,sans-serif" font-size="15" fill="#626879">사용자의 일상에 자연스럽게 스며드는 경험을 만듭니다.</text>
 <rect x="64" y="316" width="103" height="30" rx="15" fill="#E5E9FF"/>
 <text x="115" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#3157EE">KOTLIN</text>
 <rect x="176" y="316" width="145" height="30" rx="15" fill="#FFE7E0"/>
@@ -41,5 +41,5 @@
   <rect x="5" y="232" width="112" height="36" rx="18" fill="#FF765E"/>
   <text x="61" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".7" fill="#fff">MADE TO BE USEFUL</text>
 </g>
-<text x="1140" y="355" text-anchor="end" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.4" fill="#7B8090">PARKHJ2009  ·  OPEN TO BUILD</text>
+<text x="1140" y="355" text-anchor="end" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.4" fill="#7B8090">PARKHJ2009  ·  PROFILE</text>
 </svg>
