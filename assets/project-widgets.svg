@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">급식과 시간표 Android 위젯</title><desc id="desc">Android 홈 화면에 배치하는 급식 및 시간표 위젯의 추상 UI 카드.</desc>
+<rect width="900" height="250" rx="22" fill="#E9EDFF"/>
+<circle cx="826" cy="22" r="100" fill="#D6DEFF"/><circle cx="860" cy="230" r="76" fill="#D6DEFF"/>
+<text x="42" y="52" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3157EE">01  /  ANDROID WIDGETS</text>
+<text x="42" y="105" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#202434">오늘 필요한 정보를</text>
+<text x="42" y="143" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#202434">홈 화면에서 바로.</text>
+<text x="44" y="190" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#65708E">KOTLIN  ·  JETPACK GLANCE</text>
+<rect x="560" y="35" width="278" height="82" rx="15" fill="#fff"/>
+<rect x="579" y="52" width="42" height="42" rx="12" fill="#FFF0E9"/><path d="M591 81V68M600 81V62M609 81V71" stroke="#FF765E" stroke-width="4" stroke-linecap="round"/>
+<text x="635" y="67" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#8A90A0">TODAY'S MEAL</text><rect x="635" y="78" width="150" height="6" rx="3" fill="#DDE1EC"/><rect x="635" y="90" width="105" height="5" rx="2.5" fill="#ECEEF3"/>
+<rect x="560" y="130" width="278" height="82" rx="15" fill="#fff"/>
+<rect x="579" y="147" width="42" height="42" rx="12" fill="#E7F4F1"/><path d="M589 159H611M589 167H607M589 175H611M589 183H603" stroke="#45A991" stroke-width="3" stroke-linecap="round"/>
+<text x="635" y="162" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#8A90A0">TIMETABLE</text><rect x="635" y="173" width="150" height="6" rx="3" fill="#DDE1EC"/><rect x="635" y="185" width="105" height="5" rx="2.5" fill="#ECEEF3"/>
+</svg>
