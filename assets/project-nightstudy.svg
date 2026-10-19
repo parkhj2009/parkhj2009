@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">팀으로 신청하는 심야자습</title><desc id="desc">팀 선택과 팀원 확인이 가능한 모바일 심야자습 신청 화면의 추상 UI 카드.</desc>
+<rect width="900" height="250" rx="22" fill="#FFF0E9"/>
+<circle cx="842" cy="-8" r="104" fill="#FFE0D5"/><circle cx="860" cy="231" r="64" fill="#FFE0D5"/>
+<text x="42" y="52" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#D75139">02  /  MOBILE EXPERIENCE</text>
+<text x="42" y="105" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#202434">팀과 함께 신청하는</text>
+<text x="42" y="143" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#202434">심야자습.</text>
+<text x="44" y="190" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#9C766C">REACT NATIVE  ·  TYPESCRIPT</text>
+<rect x="572" y="24" width="225" height="205" rx="22" fill="#202434"/>
+<rect x="581" y="33" width="207" height="187" rx="16" fill="#fff"/>
+<rect x="650" y="41" width="68" height="5" rx="2.5" fill="#E2E3E7"/>
+<text x="599" y="70" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#202434">팀 선택</text>
+<rect x="595" y="81" width="179" height="38" rx="9" fill="#F5F6F9"/><circle cx="611" cy="100" r="8" fill="#E6E9F5"/><rect x="628" y="96" width="68" height="5" rx="2.5" fill="#9DA4B4"/><circle cx="754" cy="100" r="7" fill="#fff" stroke="#D7DBE5" stroke-width="2"/>
+<rect x="595" y="125" width="179" height="38" rx="9" fill="#FFF0E9"/><circle cx="611" cy="144" r="8" fill="#FF765E"/><rect x="628" y="140" width="82" height="5" rx="2.5" fill="#6F5860"/><circle cx="754" cy="144" r="7" fill="#FF765E"/><path d="M751 144L753 146L757 141" fill="none" stroke="#fff" stroke-width="1.5"/>
+<rect x="595" y="169" width="179" height="36" rx="10" fill="#3157EE"/><text x="684" y="192" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing=".8" fill="#fff">팀으로 신청하기</text>
+</svg>
