@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+<title id="title">심야자습 프로젝트 관리 웹</title><desc id="desc">학생과 팀 정보를 확인하는 웹 관리 화면의 추상 대시보드.</desc>
+<rect width="900" height="250" rx="22" fill="#E8F4F1"/>
+<circle cx="840" cy="15" r="105" fill="#D5EBE5"/><circle cx="872" cy="247" r="70" fill="#D5EBE5"/>
+<text x="42" y="52" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#287C69">03  /  WEB INTERFACE</text>
+<text x="42" y="105" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#202434">운영에 필요한 정보를</text>
+<text x="42" y="143" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#202434">한눈에 관리하도록.</text>
+<text x="44" y="190" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#63877E">REACT  ·  TYPESCRIPT  ·  VITE</text>
+<rect x="530" y="34" width="320" height="182" rx="14" fill="#fff"/>
+<rect x="530" y="34" width="320" height="30" rx="14" fill="#F5F8F7"/><path d="M530 51V64H850V51" fill="#F5F8F7"/>
+<circle cx="547" cy="49" r="3" fill="#FF765E"/><circle cx="558" cy="49" r="3" fill="#F2C16B"/><circle cx="569" cy="49" r="3" fill="#68B89D"/>
+<rect x="548" y="79" width="93" height="117" rx="9" fill="#F2F7F5"/>
+<rect x="561" y="92" width="51" height="5" rx="2.5" fill="#94B9AF"/><rect x="561" y="107" width="62" height="5" rx="2.5" fill="#D9E8E3"/><rect x="561" y="120" width="54" height="5" rx="2.5" fill="#D9E8E3"/><rect x="561" y="133" width="62" height="5" rx="2.5" fill="#D9E8E3"/><rect x="561" y="146" width="44" height="5" rx="2.5" fill="#D9E8E3"/>
+<rect x="654" y="79" width="178" height="50" rx="9" fill="#F7F8F7"/><text x="669" y="97" font-family="Arial,sans-serif" font-size="8" font-weight="700" letter-spacing=".8" fill="#87938F">APPLICATIONS</text><rect x="669" y="108" width="80" height="6" rx="3" fill="#53625D"/><rect x="765" y="106" width="49" height="15" rx="7.5" fill="#DDF2EB"/>
+<rect x="654" y="137" width="178" height="59" rx="9" fill="#F7F8F7"/><path d="M670 181V166M687 181V157M704 181V170M721 181V151M738 181V162M755 181V155M772 181V168M789 181V149M806 181V159" stroke="#55A891" stroke-width="5" stroke-linecap="round"/>
+</svg>
