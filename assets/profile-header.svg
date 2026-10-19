@@ -1,45 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">박현준 — 매일 쓰는 앱을 더 편리하게</title>
-<desc id="desc">아이보리 바탕과 코발트 블루, 코럴 포인트로 만든 개발자 소개 배너입니다.</desc>
+<title id="title">박현준 — 좋은 경험은 작은 디테일에서</title>
+<desc id="desc">밝은 크림색과 코발트 블루, 코럴 포인트로 구성한 모바일 개발자 프로필 배너.</desc>
 <defs>
-  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#26304A" opacity=".12"/></pattern>
-  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4166FF"/><stop offset="1" stop-color="#2647D7"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#F4F5FF" opacity=".22"/></pattern>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5474FF"/><stop offset="1" stop-color="#2949D8"/></linearGradient>
 </defs>
-<rect width="1200" height="390" rx="18" fill="#F5F3EC"/>
-<path d="M770 0H1182Q1200 0 1200 18V372Q1200 390 1182 390H770Z" fill="url(#grid)"/>
-<circle cx="82" cy="55" r="6" fill="#FF765E"/>
-<text x="102" y="60" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2" fill="#202434">PARK HYUNJUN</text>
-<text x="1140" y="60" text-anchor="end" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#626879">ANDROID  /  MOBILE  /  WEB</text>
-<path d="M60 91H1140" stroke="#D9D8D0"/>
-<text x="60" y="163" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#202434">매일 쓰는 앱을</text>
-<text x="60" y="222" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#3157EE">더 편리하게.</text>
-<text x="64" y="274" font-family="Arial,sans-serif" font-size="15" fill="#626879">사용자의 일상에 자연스럽게 스며드는 경험을 만듭니다.</text>
-<rect x="64" y="316" width="103" height="30" rx="15" fill="#E5E9FF"/>
-<text x="115" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#3157EE">KOTLIN</text>
-<rect x="176" y="316" width="145" height="30" rx="15" fill="#FFE7E0"/>
-<text x="248" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#D75139">REACT NATIVE</text>
-<rect x="329" y="316" width="119" height="30" rx="15" fill="#E5E9FF"/>
-<text x="388" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#3157EE">TYPESCRIPT</text>
-<g transform="translate(834 88)">
-  <rect x="14" y="18" width="230" height="256" rx="23" fill="#202434" transform="rotate(-7 129 146)"/>
-  <rect x="40" y="0" width="230" height="256" rx="23" fill="url(#blue)"/>
-  <rect x="49" y="9" width="212" height="238" rx="17" fill="#FAFAF7"/>
-  <rect x="124" y="17" width="62" height="5" rx="2.5" fill="#D9DCE5"/>
-  <text x="67" y="54" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#777D8C">TODAY AT A GLANCE</text>
-  <rect x="65" y="68" width="180" height="75" rx="12" fill="#E9EDFF"/>
-  <circle cx="88" cy="92" r="9" fill="#3157EE"/>
-  <path d="M84 92L87 95L93 88" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="107" y="86" width="105" height="6" rx="3" fill="#38415B"/>
-  <rect x="107" y="99" width="76" height="5" rx="2.5" fill="#A7AEC2"/>
-  <rect x="65" y="153" width="84" height="70" rx="12" fill="#FFF0E9"/>
-  <rect x="161" y="153" width="84" height="70" rx="12" fill="#F0F2F7"/>
-  <path d="M82 203V186M96 203V175M110 203V190M124 203V181" stroke="#FF765E" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="203" cy="188" r="17" fill="none" stroke="#D8DDEB" stroke-width="6"/>
-  <path d="M203 171A17 17 0 0 1 219 194" fill="none" stroke="#3157EE" stroke-width="6" stroke-linecap="round"/>
-  <circle cx="302" cy="45" r="23" fill="#FF765E"/>
-  <path d="M294 45H310M302 37V53" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
-  <rect x="5" y="232" width="112" height="36" rx="18" fill="#FF765E"/>
-  <text x="61" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".7" fill="#fff">MADE TO BE USEFUL</text>
+<rect width="1200" height="390" rx="20" fill="#F7F5EF"/>
+<path d="M795 0H1180Q1200 0 1200 20V370Q1200 390 1180 390H795Z" fill="url(#dots)"/>
+<circle cx="68" cy="55" r="6" fill="#FF765E"/>
+<text x="88" y="60" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2" fill="#202434">PARK HYUNJUN</text>
+<text x="1140" y="60" text-anchor="end" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#626879">ANDROID  ·  MOBILE  ·  WEB</text>
+<path d="M55 91H1145" stroke="#E1DFD6"/>
+<text x="57" y="166" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="700" letter-spacing="-1.7" fill="#202434">좋은 경험은</text>
+<text x="57" y="228" font-family="Arial,Helvetica,sans-serif" font-size="51" font-weight="700" letter-spacing="-1.7" fill="#3157EE">작은 디테일에서.</text>
+<text x="62" y="278" font-family="Arial,sans-serif" font-size="15" fill="#626879">매일 쓰는 앱을 더 편리하게 만드는 개발자, 박현준입니다.</text>
+<rect x="62" y="317" width="5" height="26" rx="2.5" fill="#FF765E"/>
+<text x="81" y="335" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#3157EE">KOTLIN</text>
+<circle cx="152" cy="330" r="2" fill="#C2C3C5"/>
+<text x="166" y="335" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#3157EE">REACT NATIVE</text>
+<circle cx="274" cy="330" r="2" fill="#C2C3C5"/>
+<text x="288" y="335" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" fill="#3157EE">TYPESCRIPT</text>
+<g transform="translate(840 88)">
+  <rect x="10" y="18" width="220" height="246" rx="22" fill="#202434" transform="rotate(-8 120 141)"/>
+  <rect x="38" y="0" width="220" height="246" rx="22" fill="url(#blue)"/>
+  <rect x="47" y="9" width="202" height="228" rx="16" fill="#FCFCFA"/>
+  <rect x="118" y="16" width="60" height="5" rx="2.5" fill="#D9DCE5"/>
+  <text x="63" y="49" font-family="Arial,sans-serif" font-size="9" font-weight="700" letter-spacing="1.3" fill="#7A8090">TODAY / DASHBOARD</text>
+  <rect x="62" y="62" width="172" height="70" rx="11" fill="#E9EDFF"/>
+  <circle cx="83" cy="84" r="8" fill="#3157EE"/>
+  <path d="M79 84L82 87L88 80" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="101" y="79" width="100" height="5" rx="2.5" fill="#38415B"/>
+  <rect x="101" y="91" width="69" height="4" rx="2" fill="#A7AEC2"/>
+  <rect x="62" y="141" width="80" height="76" rx="11" fill="#FFF0E9"/>
+  <rect x="150" y="141" width="84" height="76" rx="11" fill="#F0F2F7"/>
+  <path d="M77 199V181M91 199V170M105 199V185M119 199V176" stroke="#FF765E" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="192" cy="177" r="17" fill="none" stroke="#D8DDEB" stroke-width="6"/>
+  <path d="M192 160A17 17 0 0 1 208 183" fill="none" stroke="#3157EE" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="290" cy="50" r="22" fill="#FF765E"/>
+  <path d="M282 50H298M290 42V58" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="-1" y="226" width="110" height="35" rx="17.5" fill="#FF765E"/>
+  <text x="54" y="248" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing=".6" fill="#fff">MADE TO BE USEFUL</text>
 </g>
-<text x="1140" y="355" text-anchor="end" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.4" fill="#7B8090">PARKHJ2009  ·  PROFILE</text>
+<text x="1140" y="355" text-anchor="end" font-family="Arial,sans-serif" font-size="10" letter-spacing="1.5" fill="#7B8090">PARKHJ2009  /  PROFILE</text>
 </svg>
