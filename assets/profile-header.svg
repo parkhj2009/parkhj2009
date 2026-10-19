@@ -1,35 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-<title id="title">parkhj2009 — Mobile and Frontend Developer</title>
-<desc id="desc">Minimal charcoal banner with large ivory typography, a lime accent, and abstract mobile interface cards.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Park Hyunjun — Building for everyday life</title>
+<desc id="desc">Warm ivory and cobalt blue developer profile banner with orange accents and a mobile app illustration.</desc>
 <defs>
-  <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#252725"/><stop offset="1" stop-color="#181a18"/></linearGradient>
-  <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c4c7bd" opacity=".12"/></pattern>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#26304A" opacity=".12"/></pattern>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4166FF"/><stop offset="1" stop-color="#2647D7"/></linearGradient>
 </defs>
-<rect width="1200" height="420" rx="20" fill="#151715"/>
-<path d="M735 0H1180Q1200 0 1200 20V400Q1200 420 1180 420H735Z" fill="url(#dots)"/>
-<path d="M60 95H1140" stroke="#363a33"/>
-<circle cx="66" cy="57" r="5" fill="#d5f786"/>
-<text x="84" y="62" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.3" fill="#e7e9e0">PARK HYUNJUN</text>
-<text x="1140" y="62" text-anchor="end" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" fill="#a4aa9b">MOBILE / FRONTEND</text>
-<text x="56" y="202" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" letter-spacing="-4" fill="#f1f2e9">Small details.</text>
-<text x="56" y="290" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="700" letter-spacing="-4" fill="#d5f786">Better everyday.</text>
-<text x="60" y="355" font-family="Arial,sans-serif" font-size="16" fill="#a4aa9b">parkhj2009</text>
-<path d="M168 350H200" stroke="#555e4c"/>
-<text x="214" y="355" font-family="Arial,sans-serif" font-size="14" fill="#a4aa9b">Thoughtful apps, built with care.</text>
-<g transform="translate(860 124) rotate(7 108 121)">
-  <rect width="214" height="248" rx="25" fill="#0d0f0d" stroke="#454b3e"/>
-  <rect x="10" y="10" width="194" height="228" rx="18" fill="url(#surface)"/>
-  <rect x="86" y="18" width="42" height="4" rx="2" fill="#44493d"/>
-  <text x="27" y="58" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#a4aa9b">EVERYDAY / UI</text>
-  <rect x="25" y="75" width="164" height="74" rx="12" fill="#d5f786"/>
-  <path d="M40 98H101M40 108H79" stroke="#536436" stroke-width="4" stroke-linecap="round"/>
-  <path d="M146 102L154 110L170 91" fill="none" stroke="#263616" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="25" y="162" width="76" height="57" rx="10" fill="#343a2e"/>
-  <rect x="113" y="162" width="76" height="57" rx="10" fill="#30332d"/>
-  <path d="M39 204V186M51 204V179M63 204V191M75 204V176" stroke="#c9df9c" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="151" cy="190" r="16" fill="none" stroke="#575f4c" stroke-width="5"/>
-  <path d="M151 174A16 16 0 0 1 167 190" fill="none" stroke="#d5f786" stroke-width="5" stroke-linecap="round"/>
+<rect width="1200" height="390" rx="18" fill="#F5F3EC"/>
+<path d="M770 0H1182Q1200 0 1200 18V372Q1200 390 1182 390H770Z" fill="url(#grid)"/>
+<circle cx="82" cy="55" r="6" fill="#FF765E"/>
+<text x="102" y="60" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2" fill="#202434">PARK HYUNJUN</text>
+<text x="1140" y="60" text-anchor="end" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#626879">ANDROID  /  MOBILE  /  WEB</text>
+<path d="M60 91H1140" stroke="#D9D8D0"/>
+<text x="60" y="163" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-2.5" fill="#202434">Building for</text>
+<text x="60" y="229" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-2.5" fill="#3157EE">everyday life.</text>
+<text x="64" y="278" font-family="Arial,sans-serif" font-size="16" fill="#626879">Thoughtful mobile experiences, from the widget up.</text>
+<rect x="64" y="316" width="103" height="30" rx="15" fill="#E5E9FF"/>
+<text x="115" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#3157EE">KOTLIN</text>
+<rect x="176" y="316" width="145" height="30" rx="15" fill="#FFE7E0"/>
+<text x="248" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#D75139">REACT NATIVE</text>
+<rect x="329" y="316" width="119" height="30" rx="15" fill="#E5E9FF"/>
+<text x="388" y="336" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#3157EE">TYPESCRIPT</text>
+<g transform="translate(834 88)">
+  <rect x="14" y="18" width="230" height="256" rx="23" fill="#202434" transform="rotate(-7 129 146)"/>
+  <rect x="40" y="0" width="230" height="256" rx="23" fill="url(#blue)"/>
+  <rect x="49" y="9" width="212" height="238" rx="17" fill="#FAFAF7"/>
+  <rect x="124" y="17" width="62" height="5" rx="2.5" fill="#D9DCE5"/>
+  <text x="67" y="54" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#777D8C">TODAY AT A GLANCE</text>
+  <rect x="65" y="68" width="180" height="75" rx="12" fill="#E9EDFF"/>
+  <circle cx="88" cy="92" r="9" fill="#3157EE"/>
+  <path d="M84 92L87 95L93 88" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="107" y="86" width="105" height="6" rx="3" fill="#38415B"/>
+  <rect x="107" y="99" width="76" height="5" rx="2.5" fill="#A7AEC2"/>
+  <rect x="65" y="153" width="84" height="70" rx="12" fill="#FFF0E9"/>
+  <rect x="161" y="153" width="84" height="70" rx="12" fill="#F0F2F7"/>
+  <path d="M82 203V186M96 203V175M110 203V190M124 203V181" stroke="#FF765E" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="203" cy="188" r="17" fill="none" stroke="#D8DDEB" stroke-width="6"/>
+  <path d="M203 171A17 17 0 0 1 219 194" fill="none" stroke="#3157EE" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="302" cy="45" r="23" fill="#FF765E"/>
+  <path d="M294 45H310M302 37V53" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="5" y="232" width="112" height="36" rx="18" fill="#FF765E"/>
+  <text x="61" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".7" fill="#fff">MADE TO BE USEFUL</text>
 </g>
-<circle cx="1111" cy="139" r="21" fill="#d5f786"/>
-<path d="M1104 146L1118 132M1104 132H1118V146" fill="none" stroke="#263616" stroke-width="2"/>
+<text x="1140" y="355" text-anchor="end" font-family="Arial,sans-serif" font-size="11" letter-spacing="1.4" fill="#7B8090">PARKHJ2009  ·  OPEN TO BUILD</text>
 </svg>
